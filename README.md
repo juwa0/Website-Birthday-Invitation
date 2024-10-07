@@ -12,17 +12,17 @@ Welcome to **Chris Camberos' Official Birthday Party Invitation** website! This 
 
 ## 📂 Project Structure
 
-Here’s an overview of the project's key files and their roles:
+Here’s an overview of the project's key files and what they do:
 
 ```bash
 bdayinv.py
 ```
-- This is the heart of the project! It contains the main code and functions powering the website.
+- This contains the main code and functions powering the website.
 
 ```bash
 .jpg / .gif files
 ```
-- These files bring the party to life with fun images and hilarious GIFs! 🎉
+- These files bring the party to life with fun images and GIFs! 
 
 ```bash
 requirements.txt
@@ -37,13 +37,13 @@ setup.sh
 ```bash
 style.css & config.toml
 ```
-- These files handle the styling and layout, defining everything from fonts and colors to button styles. They give the website its fun and goofy look!
+- These files handle the styling and layout, defining everything from fonts and colors to button styles.  
 
 ---
 
 ## 🎨 **Design Philosophy**
 
-This website is more than just an invitation—it's a celebration of fun and laughter! 🎊 The design is intentionally over-the-top, with goofy visuals and playful elements, all aimed at making friends and family smile. Expect lots of surprises!
+This website is more than just an invitation—it's a celebration of fun and laughter! 🎊 Expect lots of surprises!
 
 ---
 
@@ -83,6 +83,6 @@ Want to deploy your own version to the cloud? Here's a quick guide to deploying 
 
 ## 🎁 **Final Notes**
 
-This project was created as a lighthearted way to bring people together. While the design is meant to be silly, the experience is all about joy and connection. I hope you enjoy it as much as I did building it! 🥳
+This project was created as a lighthearted way to bring people together. While the design is meant to be silly, the experience is all about joy and connection. It is intentionally over-the-top, with goofy visuals and playful elements, all aimed at making friends and family smile. I hope you enjoy it as much as I did building it! 🥳
 
 ---
