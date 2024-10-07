@@ -1,11 +1,18 @@
-🎉 Chris Camberos' Birthday Party Website 🎉
-Welcome to the official birthday party invitation website! This fun and quirky site was built with love (and a lot of laughs) using Python and the Streamlit framework. The design is meant to be playful and silly—just the way to make friends and family smile! 😄
+# 🎉 Chris Camberos' Birthday Party Website 🎉
 
-Check It Out! 🚀
-🔗 Website: Chris' Birthday Party Website
-🔐 Password: chicken
+Welcome to the **official birthday party invitation** website! This fun and quirky site was built with love (and a lot of laughs) using **Python** and the **Streamlit** framework. The design is meant to be playful and silly—just the way to make friends and family smile! 😄
 
-🗂️ Project Files Overview
+## Check It Out! 🚀
+
+🔗 **Website**: [Chris' Birthday Party Website](https://chrissybirthdaywebsite.streamlit.app/)  
+🔐 **Password**: chicken
+
+___
+
+## 🗂️ Project Files Overview
+
+Here’s a breakdown of the key files used in the project:
+
 bdayinv.py: The main event! This file contains all the core code and functions for the website.
 .jpg / .gif files: A collection of images and gifs that bring the party vibe to life 🎈.
 requirements.txt: Lists all the required Python libraries and their versions for Streamlit to run the site.
