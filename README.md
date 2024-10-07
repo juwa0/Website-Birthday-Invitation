@@ -18,5 +18,7 @@ bdayinv.py: The main event! This file contains all the core code and functions f
 requirements.txt: Lists all the required Python libraries and their versions for Streamlit to run the site.
 setup.sh: Sets up and initializes the website to run in a cloud environment.
 style.css & config.toml: These files manage the overall styling—fonts, colors, layout, buttons—giving the site its unique and zany look.
+
+___
 🤹 A Note on the Design:
 This website was made with humor and fun in mind! It's not just an invitation—it's a chance to bring smiles and laughter to the people closest to you. Expect some quirky surprises along the way! 😂
