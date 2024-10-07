@@ -13,11 +13,11 @@ ___
 
 Here’s a breakdown of the key files used in the project:
 
-bdayinv.py: The main event! This file contains all the core code and functions for the website.
-.jpg / .gif files: A collection of images and gifs that bring the party vibe to life 🎈.
-requirements.txt: Lists all the required Python libraries and their versions for Streamlit to run the site.
-setup.sh: Sets up and initializes the website to run in a cloud environment.
-style.css & config.toml: These files manage the overall styling—fonts, colors, layout, buttons—giving the site its unique and zany look.
+bdayinv.py: The main event! This file contains all the core code and functions for the website.  
+.jpg / .gif files: A collection of images and gifs that bring the party vibe to life 🎈.  
+requirements.txt: Lists all the required Python libraries and their versions for Streamlit to run the site.  
+setup.sh: Sets up and initializes the website to run in a cloud environment.  
+style.css & config.toml: These files manage the overall styling—fonts, colors, layout, buttons—giving the site its unique and zany look.  
 
 ___
 🤹 A Note on the Design:
